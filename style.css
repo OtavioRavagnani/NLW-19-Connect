@@ -27,12 +27,16 @@ header {
   margin-bottom: 3rem;
 }
 
+header img {
+  cursor: pointer;
+}
 h1 {
   text-align: center;
   font-family: "Oxanium";
   font-size: 2.5rem;
   line-height: 100%;
   color: #dae4f2;
+  cursor: pointer;
 }
 
 h1 div {
